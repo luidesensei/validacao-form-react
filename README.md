@@ -25,3 +25,9 @@ npm install
 
 - Node.js 6.x ou superior;
 - NPM 3.x ou superior;
+
+## Formulário
+
+- Ao iniciar a aplicação, será executada como padrão na porta 3000 do seu localhost.
+
+- O formulário se encontra em `http://localhost:3000/form`
